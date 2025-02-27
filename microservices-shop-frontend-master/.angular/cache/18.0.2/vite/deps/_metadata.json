@@ -1,0 +1,67 @@
+{
+  "hash": "1ab09798",
+  "configHash": "95df4511",
+  "lockfileHash": "1a9d4a41",
+  "browserHash": "3e5c288f",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "4827b3e9",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "c5e34787",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "14d2543f",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "24004813",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "2eab24cd",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "ccfd20b3",
+      "needsInterop": false
+    },
+    "angular-auth-oidc-client": {
+      "src": "../../../../../node_modules/angular-auth-oidc-client/fesm2022/angular-auth-oidc-client.mjs",
+      "file": "angular-auth-oidc-client.js",
+      "fileHash": "5500b394",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-P2XQKGSY": {
+      "file": "chunk-P2XQKGSY.js"
+    },
+    "chunk-ASZCJDMI": {
+      "file": "chunk-ASZCJDMI.js"
+    },
+    "chunk-FFVUF7TD": {
+      "file": "chunk-FFVUF7TD.js"
+    },
+    "chunk-PEMK7KCW": {
+      "file": "chunk-PEMK7KCW.js"
+    },
+    "chunk-3XYCGY2D": {
+      "file": "chunk-3XYCGY2D.js"
+    }
+  }
+}

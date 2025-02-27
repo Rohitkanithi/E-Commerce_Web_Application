@@ -1,0 +1,6 @@
+com/techie/microservices/inventory/InventoryServiceApplication.class
+com/techie/microservices/inventory/config/FlywayConfig.class
+com/techie/microservices/inventory/controller/InventoryController.class
+com/techie/microservices/inventory/service/InventoryService.class
+com/techie/microservices/inventory/repository/InventoryRepository.class
+com/techie/microservices/inventory/model/Inventory.class

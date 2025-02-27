@@ -1,0 +1,6 @@
+/Users/rohitkanithi/Downloads/inventory-service/src/main/java/com/techie/microservices/inventory/InventoryServiceApplication.java
+/Users/rohitkanithi/Downloads/inventory-service/src/main/java/com/techie/microservices/inventory/config/FlywayConfig.java
+/Users/rohitkanithi/Downloads/inventory-service/src/main/java/com/techie/microservices/inventory/controller/InventoryController.java
+/Users/rohitkanithi/Downloads/inventory-service/src/main/java/com/techie/microservices/inventory/model/Inventory.java
+/Users/rohitkanithi/Downloads/inventory-service/src/main/java/com/techie/microservices/inventory/repository/InventoryRepository.java
+/Users/rohitkanithi/Downloads/inventory-service/src/main/java/com/techie/microservices/inventory/service/InventoryService.java
